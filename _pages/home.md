@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/ecust2.jpg
-  caption: "Photo: [East China University of Science and Technology](https://www.ecust.edu.cn/)"
+  caption: "Photo: [ECUST](https://www.ecust.edu.cn/)"
 excerpt: "PhD Student at the East China University of Science and Technology <br><br>"
 
 ---
@@ -17,6 +17,7 @@ excerpt: "PhD Student at the East China University of Science and Technology <br
 ## Brief Bio
 
 I'm a Ph.D. student at [East China University of Science and Technology](https://www.ecust.edu.cn/) from 2018.
+
 I'm now a Visiting Ph.D. student at [University of Bologna](https://www.unibo.it/en) from Nov 2021.
 
 I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html), [Poggi Matteo](https://mattpoggi.github.io/), [Fabio Tosi](http://vision.disi.unibo.it/~ftosi/), [Filippo Aleotti](https://filippoaleotti.github.io/website/), Youmin Zhang, Xin Qiao, and Huan Li.
