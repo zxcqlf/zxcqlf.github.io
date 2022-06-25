@@ -20,7 +20,7 @@ I'm a Ph.D. student at [East China University of Science and Technology](https:/
 
 I'm now a Visiting Ph.D. student at [University of Bologna](https://www.unibo.it/en) from Nov 2021.
 
-I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html), [Poggi Matteo](https://mattpoggi.github.io/), [Fabio Tosi](http://vision.disi.unibo.it/~ftosi/), [Filippo Aleotti](https://filippoaleotti.github.io/website/), [Youmin Zhang](), [Xin Qiao](), and [Huan Li]().
+I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html), [Poggi Matteo](https://mattpoggi.github.io/), [Fabio Tosi](http://vision.disi.unibo.it/~ftosi/), [Youmin Zhang](https://youmi-zym.github.io/), [Xin Qiao](), [Huan Li](), and [Qiyu Sun]()
 
 ### Research Topics
 * Monocular Depth Estimation
@@ -32,4 +32,7 @@ I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano M
 
 ## News and Publications
 
+### 2022
+
+* One paper is accepted by IEEE TETCI: [arxiv](https://arxiv.org/pdf/2107.13137.pdf)
 ---
