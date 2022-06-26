@@ -33,6 +33,5 @@ I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano M
 ## News and Publications
 
 ### 2022
-
-* One paper is accepted by IEEE TETCI: [arxiv](https://arxiv.org/pdf/2107.13137.pdf)
+* One paper accepted by IEEE TETCI: [arxiv](https://arxiv.org/pdf/2107.13137.pdf)
 ---
