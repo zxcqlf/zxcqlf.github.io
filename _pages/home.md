@@ -28,8 +28,6 @@ I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano M
 
 <div id='featured'></div>
 
-{% include feature_row %}
-
 ## News
 
 ### 2022
