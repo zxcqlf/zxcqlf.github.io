@@ -32,6 +32,10 @@ I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano M
 
 ### 2022
 
+
+
+* One paper accepted by 3DV
+
 * One paper accepted by IEEE TETCI: [arxiv](https://arxiv.org/pdf/2107.13137.pdf)
 
 ---
