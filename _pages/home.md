@@ -34,8 +34,8 @@ I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano M
 
 
 
-* One paper accepted by 3DV: [arxiv](https://arxiv.org/abs/2208.03543) [code](https://github.com/zxcqlf/MonoViT)
+* [08/2022] One paper accepted by 3DV: [arxiv](https://arxiv.org/abs/2208.03543) [code](https://github.com/zxcqlf/MonoViT)
 
-* One paper accepted by IEEE TETCI: [arxiv](https://arxiv.org/pdf/2107.13137.pdf)
+* [05/2022] One paper accepted by IEEE TETCI: [arxiv](https://arxiv.org/pdf/2107.13137.pdf)
 
 ---
