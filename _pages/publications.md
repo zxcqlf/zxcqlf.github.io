@@ -20,6 +20,9 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 **Related works**
 
+
+**-- 01**
+
 <div class='paper-box'><div class='paper-box-image'><img src='/assets/images/itdfa.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,6 +35,9 @@ Accepted by IEEE Transactions on Emerging Topics in Computational Intelligence, 
 </div>
 
 
+
+**-- 02**
+
 <div class='paper-box'><div class='paper-box-image'><img src='/assets/images/ddso.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,6 +49,9 @@ IEEE Transactions on Intelligent Transportation Systems, 2021
 </div>
 </div>
 
+
+
+**-- 03**
 
 <div class='paper-box'><div class='paper-box-image'><img src='/assets/images/mgan.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
