@@ -17,52 +17,21 @@ header:
 
 For a complete list of publications, please refer to <a href="https://scholar.google.co.uk/citations?hl=zh-CN&user=jsplW1YAAAAJ" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.
 
+#### Journals
+- [J10] **Zhao C**, Tang Y, Sun Q. Unsupervised monocular depth estimation in highly complex environments[J]. IEEE Transactions on Emerging Topics in Computational Intelligence, 2022. ([paper](https://arxiv.org/pdf/2107.13137.pdf))
+  
+- [J9] Tang Y, **Zhao C**, Wang J, et al. Perception and Navigation in Autonomous Systems in the Era of Learning: A Survey[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. ([paper](https://ieeexplore.ieee.org/abstract/document/9764831))
+- [J8] Lin X, **Zhao C**, Zhang C, et al. Self-attention-guided scale-refined detector for pedestrian detection[J]. Complex & Intelligent Systems, 2022: 1-13. (paper)
+- [J7] Sun Q, Tang Y, Zhang C, .., **Zhao C**, et al. Unsupervised estimation of monocular depth and VO in dynamic environments via hybrid masks[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, 33(5): 2023-2033. ([paper](https://ieeexplore.ieee.org/abstract/document/9506993))
+- [J6] Zhang C, Tang Y, **Zhao C**, et al. Multitask gans for semantic segmentation and depth completion with cycle consistency[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, 32(12): 5404-5415. ([paper](https://arxiv.org/pdf/2011.14272.pdf))
+- [J5] **Zhao C**, Tang Y, Sun Q, et al. Deep direct visual odometry[J]. IEEE transactions on intelligent transportation systems, 2021. ([paper](https://ieeexplore.ieee.org/abstract/document/9406436))
+- [J4] **Zhao C**, Yen G G, Sun Q, et al. Masked GAN for unsupervised depth and pose prediction with scale consistency[J]. IEEE Transactions on Neural Networks and Learning Systems, 2020, 32(12): 5392-5403. ([paper](https://ieeexplore.ieee.org/abstract/document/9309009))
+- [J3] **Zhao C**, Sun Q, Zhang C, et al. Monocular depth estimation based on deep learning: An overview[J]. Science China Technological Sciences, 2020, 63(9): 1612-1627. ([paper](https://arxiv.org/pdf/2003.06620.pdf))
+- [J2] Zhang C, Wang J, Yen G G, ..., **Zhao C**, et al. When autonomous systems meet accuracy and transferability through AI: A survey[J]. Patterns, 2020, 1(4): 100050.([paper](https://www.sciencedirect.com/science/article/pii/S2666389920300611))
+- [J1] Sun Q, Tang Y, **Zhao C**. Cycle-SfM: Joint self-supervised learning of depth and camera motion from monocular image sequences[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(12): 123102.
 
-**Related works**
-
-
-**-- 01**
-
-<div class='paper-box'><div class='paper-box-image'><img src='/assets/images/itdfa.png' alt="sym" width="70%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Unsupervised Monocular Depth Estimation in Highly Complex Environments](https://arxiv.org/pdf/2107.13137.pdf), **Chaoqiang Zhao**, [Yang Tang](http://www.ytangecust.com/), [Qiyu Sun]()
-
-Accepted by IEEE Transactions on Emerging Topics in Computational Intelligence, 2022
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Using domain adaptation to tackle the problem of unsupervised monocular depth estimation in complex environments, like night and rainy night.
-</div>
-</div>
-
-
-
-**-- 02**
-
-<div class='paper-box'><div class='paper-box-image'><img src='/assets/images/ddso.png' alt="sym" width="70%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep direct visual odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9406436), **Chaoqiang Zhao**,[Yang Tang](http://www.ytangecust.com/), [Qiyu Sun](), [Athanasios V Vasilakos]()
-
-IEEE Transactions on Intelligent Transportation Systems, 2021
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Introducing deep neural pose estimation into traditional DSO framework for robust initialization and accurate tracking.
-</div>
-</div>
-
-
-
-**-- 03**
-
-<div class='paper-box'><div class='paper-box-image'><img src='/assets/images/mgan.png' alt="sym" width="70%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Masked GAN for unsupervised depth and pose prediction with scale consistency](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9309009), **Chaoqiang Zhao**, [Gary G Yen](), [Qiyu Sun](), [Chongzhen Zhang](), [Yang Tang](http://www.ytangecust.com/)
-
-IEEE Transactions on Neural Networks and Learning Systems, 2020
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Improve the adversarial loss used in unsupervised monocular depth estimation framework.
-</div>
-</div>
-
+#### International Conferences and Workshops
+- [C2] **Zhao C**, Zhang Y, Poggi M, et al. MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer, International Conference on 3D Vision, 2022. ([paper](https://arxiv.org/pdf/2208.03543.pdf)|[code](https://github.com/zxcqlf/MonoViT))
+- [C1] Qian H, Zhong W, Zhao C, et al. Trajectory Planning for Unmanned Aircraft Vehicle via Set-Valued Filter[C]//IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society. IEEE, 2020: 4431-4438.
 
 ---
