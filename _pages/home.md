@@ -20,7 +20,7 @@ I'm now a Ph.D. student at [East China University of Science and Technology](htt
 
 I was a Visiting Ph.D. student at [University of Bologna](https://www.unibo.it/en) from Nov 2021 to Nov 2022.
 
-I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html), [Poggi Matteo](https://mattpoggi.github.io/), [Fabio Tosi](http://vision.disi.unibo.it/~ftosi/), [Youmin Zhang](https://youmi-zym.github.io/), and [Qiyu Sun]()
+I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html), [Poggi Matteo](https://mattpoggi.github.io/), [Fabio Tosi](http://vision.disi.unibo.it/~ftosi/), [Youmin Zhang](https://youmi-zym.github.io/), and Qiyu Sun
 
 ### Research Topics
 * Monocular Depth Estimation
