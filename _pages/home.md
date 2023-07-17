@@ -16,7 +16,7 @@ excerpt: "PhD Student at the East China University of Science and Technology <br
 
 ## Brief Bio
 
-I'm now a Ph.D. student at [East China University of Science and Technology](https://www.ecust.edu.cn/) from 2018.
+I received my Ph.D. from [East China University of Science and Technology](https://www.ecust.edu.cn/) in 06/2023.
 
 I was a Visiting Ph.D. student at [University of Bologna](https://www.unibo.it/en) from Nov 2021 to Nov 2022.
 
@@ -30,9 +30,15 @@ I'm working with [Prof. Yang Tang](http://www.ytangecust.com/), [Prof. Stefano M
 
 ## News
 
+### 2023
+
+* [07/2023] Two papers accepted by ICCV
+  
+* [06/2023] One paper accepted by IROS
+  
+* [06/2023] Reviewers of IEEE TPAMI and IEEE TIP
+
 ### 2022
-
-
 
 * [08/2022] One paper accepted by 3DV: [arxiv](https://arxiv.org/abs/2208.03543) [code](https://github.com/zxcqlf/MonoViT)
 
